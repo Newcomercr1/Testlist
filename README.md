@@ -20,48 +20,314 @@ Testlist is a hybrird automation framework that's jared and ready to use without
 
 # Keyword
 <h3>openBrowse</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>openBrowse</td>
+    <td>chrome</td>
+  </tr>
+</table>
 <br>
 <h3>navigate</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
 <br>
 <h3>waitFor</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>closeBrowser</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>byID</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>byName</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>byClassName</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>byTagName</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>byXpath</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>inputText</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>textArea</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>password</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>email</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>search</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>submit</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>buttonPosition</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>buttonText</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>link</h3><br>
+ <table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>checkbox</h3><br>
+<table style="width:100%">
+<caption>   Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>radio</h3><br>
+<table style="width:100%">
+<caption>   Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 <h3>select</h3><br>
+<table style="width:100%">
+<caption>   Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
-<h3>date</h3><br>
+<h3>  date</h3><br>
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 <br>
 
 
