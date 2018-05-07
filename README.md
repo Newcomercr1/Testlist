@@ -38,7 +38,7 @@ Testlist is a hybrird automation framework that's jared and ready to use without
 
 
 <h3>navigate</h3><br>
-<p>This function navigates to the selected URL. 
+<p>This function navigates to the entered URL. 
 <table style="width:100%">
 <caption>Example</caption>
 <tr>
