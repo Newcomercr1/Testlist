@@ -20,6 +20,7 @@ Testlist is a hybrird automation framework that's jared and ready to use without
 
 # Keyword
 <h3>openBrowse</h3><br>
+<p> This function open one of four browsers, which are Chrome, Firefox, Edge, and HTML-Driver. The web-driver for firefox has to be in the envirement path in order to work.</p>
 <table style="width:100%">
 <caption>Example</caption>
 <tr>
@@ -34,7 +35,10 @@ Testlist is a hybrird automation framework that's jared and ready to use without
   </tr>
 </table>
 <br>
+
+
 <h3>navigate</h3><br>
+<p>This function navigates to the selected URL. 
 <table style="width:100%">
 <caption>Example</caption>
 <tr>
@@ -44,39 +48,49 @@ Testlist is a hybrird automation framework that's jared and ready to use without
   </tr>
   <tr>
     <td> </td>
+    <td>navigate</td>
+    <td>url.com</td>
+  </tr>
+</table>
+
+
+<br>
+<h3>waitFor</h3><br>
+<p>This function pauses the automation for 5 seconds. 
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
     <td> </td>
+    <td>waitFor</td>
+    <td> </td>
+  </tr>
+  </table>
+<br>
+
+
+<h3>closeBrowser</h3><br>
+<p>This function close the web browser.
+<table style="width:100%">
+<caption>Example</caption>
+<tr>
+    <th>Page Object</th>
+    <th>Action Keyword</th>
+    <th>Data Set</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>closeBrowser</td>
     <td> </td>
   </tr>
 </table>
 <br>
-<h3>waitFor</h3><br>
-<table style="width:100%">
-<caption>Example</caption>
-<tr>
-    <th>Page Object</th>
-    <th>Action Keyword</th>
-    <th>Data Set</th>
-  </tr>
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-<br>
-<h3>closeBrowser</h3><br>
-<table style="width:100%">
-<caption>Example</caption>
-<tr>
-    <th>Page Object</th>
-    <th>Action Keyword</th>
-    <th>Data Set</th>
-  </tr>
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-<br>
+   
+   
 <h3>byID</h3><br>
 <table style="width:100%">
 <caption>Example</caption>
